@@ -1,5 +1,5 @@
 name: flutter_billing_plugin_example
-description: Demonstrates how to use the flutter_billing_plugin plugin.
+description: This plugin supports in-app purchases for App Store (on iOS) or Google Play (on Android).
 
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
